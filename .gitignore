@@ -1,4 +1,7 @@
-test.js
-GROMA 6 2021 text.html
+__pycache__/
+*.pyc
+.venv/
+out/
+output/
 .DS_Store
-abballe-cavalazzi.html
+GROMA * text.html
